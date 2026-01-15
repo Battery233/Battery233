@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
-![Counter](https://battery233-visitor-badge.glitch.me/badge?page_id=battery233)
+<!-- ![Counter](https://battery233-visitor-badge.glitch.me/badge?page_id=battery233)
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=battery233&theme=dark)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=battery233&theme=dark) -->
 
 ```text
 /*
